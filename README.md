@@ -1,6 +1,6 @@
 # DJ Music Discovery & Set Planning Tool
 
-An intelligent tool that helps DJs discover new tracks, analyze music compatibility, and plan cohesive sets by combining music streaming APIs, audio analysis, and DJ workflow optimization.
+An intelligent tool that helps DJs discover new tracks, analyze music compatibility, and plan cohesive sets by combining music streaming APIs, audio analysis, and DJ workflow optimization. An all in one DJ sidekick.
 
 ## Project Overview
 
